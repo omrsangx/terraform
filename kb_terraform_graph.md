@@ -3,7 +3,7 @@
 ### Using Terraform with Graphviz
 You have the option to graph a terraform plan, apply, or the cicle using Graphviz (dot language). <br>
 
-**To generate a graph:**
+**To generate a graph:** <br>
 <code> terraform graph </code>
 
 <code> terraform graph [options]</code>
