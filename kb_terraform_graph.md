@@ -24,3 +24,9 @@ You have the option to graph a terraform plan, apply, or the cicle using Graphvi
 <code> dot -Tpng  tf_graph.dot -o tf_graph.png </code>
 <br>
 
+#### Graphviz Options:
+- `dot -Tpdf  tf_graph.dot -o tf_graph.pdf`
+- `dot -Tsvg  tf_graph.dot -o tf_graph.svg`
+- `dot -Tjpg  tf_graph.dot -o tf_graph.jpg`
+
+
